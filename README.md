@@ -7,13 +7,13 @@
 
 
 
-- 🌱 I’m currently learning ** | Frameworks: ReactJS, PyTorch, Tableau, AWS, PyCharm, MongoDB, Git. **
+- 🌱 I’m currently learning ** Everything. **
 
-- 💬 Ask me about **Programming Languages & Frontend Development**
+- 💬 Ask me about ** Programming Languages and Full Stack Development **
 
-- 📫 How to reach me **sydneymarrero2@gmail.com**
+- 📫 How to reach me ** sydneymarrero2@gmail.com **
 
-- ⚡ Fun fact **I love LSU Football.**
+- ⚡ Fun fact ** I love sweet tea **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
