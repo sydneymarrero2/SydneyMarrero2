@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sydneymarrero2](https://github.com/sydneymarrero2)
 
-- 💬 Ask me about **Programming Languages and Frontend Development**
+- 💬 Ask me about **Programming Languages and Front-end Development**
 
 - 📫 How to reach me **sydneymarrero2@gmail.com**
 
